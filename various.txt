@@ -1,0 +1,10 @@
+jupiter.intl.sys.miui.com
+mcc.intl.inf.miui.com
+galleryapi.micloud.xiaomi.net
+fr.resolver.msg.global.xiaomi.net
+fr.app.chat.global.xiaomi.net
+sdk-api.apptracer.ru
+rosenberg.appmetrica.yandex.net
+baidu.com
+ksn-ca-geo.kaspersky-labs.com
+public-api.uxfeedback.ru
