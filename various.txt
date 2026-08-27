@@ -17,3 +17,5 @@ datacollector-drru.dt.dbankcloud.ru
 ip4.tracker-api.vk-analytics.ru	
 tracker-api.vk-analytics.ru
 ts.tracker-api.vk-analytics.ru
+stats.rustore.ru
+e.mail.ru
