@@ -9,8 +9,11 @@ sdk-api.apptracer.ru
 ksn-ca-geo.kaspersky-labs.com
 public-api.uxfeedback.ru
 collector.clue.run
+startup.mobile.yandex.net
 rosenberg.appmetrica.yandex.net
 quasar.yandex.net
 scbh.yandex.net
 datacollector-drru.dt.dbankcloud.ru
 ip4.tracker-api.vk-analytics.ru	
+tracker-api.vk-analytics.ru
+ts.tracker-api.vk-analytics.ru
