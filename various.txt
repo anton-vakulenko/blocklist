@@ -2,11 +2,16 @@ jupiter.intl.sys.miui.com
 mcc.intl.inf.miui.com
 tracking.intl.miui.com
 baidu.com
+www.baidu.com
 galleryapi.micloud.xiaomi.net
 fr.resolver.msg.global.xiaomi.net
 fr.app.chat.global.xiaomi.net
 sdk-api.apptracer.ru
 ksn-ca-geo.kaspersky-labs.com
+ksn-info-geo.kaspersky-labs.com
+ksn-cinfo-geo.kaspersky-labs.com
+ksn-a-stat-geo.kaspersky-labs.com
+ds.kaspersky.com
 public-api.uxfeedback.ru
 collector.clue.run
 startup.mobile.yandex.net
@@ -19,3 +24,9 @@ tracker-api.vk-analytics.ru
 ts.tracker-api.vk-analytics.ru
 stats.rustore.ru
 e.mail.ru
+stats.avito.ru
+ip4.tracker-api.my.com
+ts.tracker-api.my.com
+api16-access-ttp-b.tiktokpangle-b.us
+
+
